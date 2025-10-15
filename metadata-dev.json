@@ -1,0 +1,20 @@
+{
+    "name": "DRACO",
+    "symbol": "DRACO",
+    "description": "The utility token of the Draco platform",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Token Type",
+            "value": "Utility"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "1000000000"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "9"
+        }
+    ]
+}
