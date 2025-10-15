@@ -2,7 +2,7 @@
     "name": "DRACO",
     "symbol": "DRACO",
     "description": "The utility token of the Draco platform",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/draco-platform/assets/main/draco-logo-1920x1920.png",
     "attributes": [
         {
             "trait_type": "Token Type",
